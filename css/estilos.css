@@ -48,3 +48,10 @@ font-size: 20PX;
     background: white;
     padding: 1em;
 }
+#footer
+{
+  background: rgb(5, 1, 27); 
+  color: bisque;
+  text-align: center;
+  padding: 1em;
+}
