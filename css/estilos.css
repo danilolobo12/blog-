@@ -36,3 +36,10 @@ color: blue;
 font-size: 20PX;
 
 }
+#footer
+{
+  background: rgb(5, 1, 27); 
+  color: bisque;
+  text-align: center;
+  padding: 1em;
+}
